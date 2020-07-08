@@ -65,7 +65,7 @@ body {
 	font-size: 2.5em;
 	font-family: 'Oxygen Mono', monospace;
 	background: inherit;
-	color: black;
+	color: rgb(235, 19, 19);
 }
 
 button {
