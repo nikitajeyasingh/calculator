@@ -6,7 +6,7 @@
 }
 
 body {
-	background: #ccc;
+	background: rgb(35, 177, 89);
 	-moz-user-select: none;
 	-khtml-user-select: none;
 	-webkit-user-select: none;
@@ -65,7 +65,7 @@ body {
 	font-size: 2.5em;
 	font-family: 'Oxygen Mono', monospace;
 	background: inherit;
-	color: rgb(235, 19, 19);
+	color: white;
 }
 
 button {
